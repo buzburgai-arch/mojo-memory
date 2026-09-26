@@ -1,0 +1,22 @@
+[
+  {
+    "archive": "nuggets-main.zip",
+    "bytes": 1862261,
+    "sha256": "db6bf7df49e7942432d22f21d750b694bab143b46373a70ca02c1e9857744726"
+  },
+  {
+    "archive": "hermes-plugin-holographic-main.zip",
+    "bytes": 22329,
+    "sha256": "429b53224f9462fef42de4d853373615e9de35c58e2d254f0124074511ad99c6"
+  },
+  {
+    "archive": "holographic-memory-main (1).zip",
+    "bytes": 99394,
+    "sha256": "447c87fadcf53cea9fcd21fbe80308172fc24629f8e0b928270b8527cd9d4a5a"
+  },
+  {
+    "archive": "holographic-memory-writer.zip",
+    "bytes": 2835349,
+    "sha256": "5214ce76c81200e45171fc9970522a180e5c07ef87a4fe96776063274f9aa833"
+  }
+]

@@ -1,0 +1,11 @@
+build/
+__pycache__/
+*.pyc
+*.db
+*.db-*
+*.sqlite*
+*.log
+.venv/
+.env*
+.mypy_cache/
+.ruff_cache/

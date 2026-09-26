@@ -1,0 +1,11 @@
+{
+  "platform": "Linux-5.15.167.4-microsoft-standard-WSL2-x86_64-with-glibc2.39",
+  "records": 256,
+  "searches": 100,
+  "candidate_limit": 64,
+  "dimension": 512,
+  "insert_warm_median_ms": 1.1418409999999213,
+  "search_median_ms": 10.225890500000112,
+  "search_p95_ms": 10.656453000000177,
+  "scope": "synthetic lexical-overlap fixture; no model speed or repair-quality claim"
+}
